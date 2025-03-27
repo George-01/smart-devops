@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jdfuzXnEKy7QkLPi3JEX+PLKfaARyqkKI1i/8XGNCbc=",
+  "Hash": "fVgQeUm6ck9j+kuxZ/El3uM/2mQxoX813ExK4aD3GYw=",
   "Source": "Shopping.Client",
   "BasePath": "_content/Shopping.Client",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shopping.Client.styles.css",
+      "Identity": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Release\\net8.0\\scopedcss\\bundle\\Shopping.Client.styles.css",
       "SourceId": "Shopping.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Release\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Shopping.Client",
       "RelativePath": "Shopping.Client#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "G3aH63ngeAXxLy8fWcK9VvUANlrrHLMEJfKU2IrYIr4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shopping.Client.styles.css"
+      "OriginalItemSpec": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Release\\net8.0\\scopedcss\\bundle\\Shopping.Client.styles.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping.Client.bundle.scp.css",
+      "Identity": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Shopping.Client.bundle.scp.css",
       "SourceId": "Shopping.Client",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Shopping.Client",
       "RelativePath": "Shopping.Client#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,7 +56,7 @@
       "Integrity": "G3aH63ngeAXxLy8fWcK9VvUANlrrHLMEJfKU2IrYIr4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping.Client.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Shopping.Client.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\wwwroot\\css\\site.css",
@@ -6242,7 +6242,7 @@
     },
     {
       "Route": "Shopping.Client.5sjnmswkvz.bundle.scp.css",
-      "AssetFile": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping.Client.bundle.scp.css",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Shopping.Client.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6263,7 +6263,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 03:07:52 GMT"
+          "Value": "Thu, 27 Mar 2025 04:20:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6287,7 +6287,7 @@
     },
     {
       "Route": "Shopping.Client.5sjnmswkvz.styles.css",
-      "AssetFile": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shopping.Client.styles.css",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Release\\net8.0\\scopedcss\\bundle\\Shopping.Client.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6308,7 +6308,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 03:07:52 GMT"
+          "Value": "Thu, 27 Mar 2025 04:20:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6332,7 +6332,7 @@
     },
     {
       "Route": "Shopping.Client.bundle.scp.css",
-      "AssetFile": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping.Client.bundle.scp.css",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Shopping.Client.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6353,7 +6353,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 03:07:52 GMT"
+          "Value": "Thu, 27 Mar 2025 04:20:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6369,7 +6369,7 @@
     },
     {
       "Route": "Shopping.Client.styles.css",
-      "AssetFile": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shopping.Client.styles.css",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Release\\net8.0\\scopedcss\\bundle\\Shopping.Client.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6390,7 +6390,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 03:07:52 GMT"
+          "Value": "Thu, 27 Mar 2025 04:20:35 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -1,7 +1,7 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping.Client.bundle.scp.css",
+      "Id": "C:\\Users\\user\\source\\repos\\smart-devops\\Shopping\\Shopping.Client\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Shopping.Client.bundle.scp.css",
       "PackagePath": "staticwebassets\\Shopping.Client.5sjnmswkvz.bundle.scp.css"
     },
     {
@@ -245,23 +245,23 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Shopping.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Shopping.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Shopping.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Shopping.Client.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Shopping.Client.props",
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Shopping.Client.props",
       "PackagePath": "build\\Shopping.Client.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Shopping.Client.props",
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Shopping.Client.props",
       "PackagePath": "buildMultiTargeting\\Shopping.Client.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Shopping.Client.props",
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Shopping.Client.props",
       "PackagePath": "buildTransitive\\Shopping.Client.props"
     }
   ],
