@@ -35,3 +35,9 @@ C:\Users\user\source\repos\smart-devops\Shopping\Shopping.API\obj\Debug\net8.0\r
 C:\Users\user\source\repos\smart-devops\Shopping\Shopping.API\obj\Debug\net8.0\Shopping.API.pdb
 C:\Users\user\source\repos\smart-devops\Shopping\Shopping.API\obj\Debug\net8.0\Shopping.API.genruntimeconfig.cache
 C:\Users\user\source\repos\smart-devops\Shopping\Shopping.API\obj\Debug\net8.0\ref\Shopping.API.dll
+C:\Users\user\source\repos\smart-devops\Shopping\Shopping.API\bin\Debug\net8.0\DnsClient.dll
+C:\Users\user\source\repos\smart-devops\Shopping\Shopping.API\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\user\source\repos\smart-devops\Shopping\Shopping.API\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\user\source\repos\smart-devops\Shopping\Shopping.API\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\user\source\repos\smart-devops\Shopping\Shopping.API\bin\Debug\net8.0\Snappier.dll
+C:\Users\user\source\repos\smart-devops\Shopping\Shopping.API\bin\Debug\net8.0\ZstdSharp.dll
