@@ -15,28 +15,28 @@ spec:
         app: shoppingclient
     spec:
       containers:
-      - name: shoppingclient
-        image: shoppingacr01.azurecr.io/shoppingclient:v1
-        imagePullPolicy: IfNotPresent
-        imagePullSecrets:
-          - name: acr-secret
-        ports:
-          - containerPort: 80
-        env:
-          - name: ASPNETCORE_ENVIRONMENT
-            value: Development
-          - name: ShoppingAPIUrl
-            valueFrom:
-                configMapKeyRef:
-                  name: shoppingapi-configmap
-                  key: shoppingapi_url
-        resources:
-          requests:
-            memory: "64Mi"
-            cpu: "250m"
-          limits:
-            memory: "128Mi"
-            cpu: "500m"
+        - name: shoppingclient
+          image: shoppingacr01.azurecr.io/shoppingclient:v1
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 8080
+          env:
+            - name: ASPNETCORE_ENVIRONMENT
+              value: Development
+            - name: ShoppingAPIUrl
+              valueFrom:
+                  configMapKeyRef:
+                    name: shoppingapi-configmap
+                    key: shoppingapi_url
+          resources:
+            requests:
+              memory: "64Mi"
+              cpu: "100m"
+            limits:
+              memory: "128Mi"
+              cpu: "200m"
+      imagePullSecrets:
+        - name: acr-secret
 ---
 apiVersion: v1
 kind: Service
@@ -44,10 +44,10 @@ metadata:
   name: shoppingclient-service
 spec:
   type: LoadBalancer
+  ports:
+    - port: 80
+      targetPort: 8080
   selector:
     app: shoppingclient
-  ports:
-    - protocol: TCP
-      port: 80
 
 
