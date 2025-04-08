@@ -10,6 +10,7 @@ trigger:
       include:
       - Shopping/Shopping.API/*
       - aks/shoppingapi.yaml
+
 resources:
 - repo: self
 
@@ -19,7 +20,7 @@ variables:
   dockerRegistryServiceConnection: 'd5c41d2d-03d2-4a2b-bae8-4a4f96b6af84'
   imageRepository: 'shoppingapi'
   containerRegistry: 'shoppingacr01.azurecr.io'
-  dockerfilePath: '**/Dockerfile'
+  dockerfilePath: 'Shopping/Shopping.API/Dockerfile'
   tag: '$(Build.BuildId)'
   imagePullSecret: 'shoppingacr019487c4f3-auth'
 
